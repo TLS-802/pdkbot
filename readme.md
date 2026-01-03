@@ -37,18 +37,3 @@
 ⚠️ 注意：**本项目仅供学习与交流，如有侵权联系作者删除。**
 
 鉴于项目的特殊性，开发团队可能在任何时间**停止更新**或**删除项目**。
-
-## 交流群
-欢迎加入项目交流群，交流技术、分享经验、互助学习。
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>微信交流群</strong></td>
-      <td align="center"><strong>微信赞赏码</strong></td>
-    </tr>
-    <tr>
-      <td><img src="https://worklink.oss-cn-hangzhou.aliyuncs.com/8E85B590C689E0DFA296D00DEE5466EC.png"  width="300px" alt="微信交流群"></td>
-      <td><img src="https://worklink.oss-cn-hangzhou.aliyuncs.com/D8512B5B322FFAAC3D6927982A12B078.jpg"  width="300px" alt="微信赞赏码"></td>
-    </tr>
-  </table>
-</div>
